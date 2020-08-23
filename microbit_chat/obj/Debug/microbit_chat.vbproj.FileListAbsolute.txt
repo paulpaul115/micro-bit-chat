@@ -1,0 +1,15 @@
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\bin\Debug\microbit_chat.exe.config
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\bin\Debug\microbit_chat.exe
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\bin\Debug\microbit_chat.pdb
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\bin\Debug\microbit_chat.xml
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.vbprojAssemblyReference.cache
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.Form1.resources
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.Resources.resources
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.vbproj.GenerateResource.cache
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.vbproj.CoreCompileInputs.cache
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.exe
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.xml
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.pdb
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\bin\Debug\is-IS\microbit_chat.resources.dll
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\microbit_chat.Form1.is-IS.resources
+C:\Users\paulp\source\repos\new\microbit_chat\microbit_chat\obj\Debug\is-IS\microbit_chat.resources.dll
